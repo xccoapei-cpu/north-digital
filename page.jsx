@@ -1,7 +1,7 @@
 import { ArrowRight, CheckCircle2, LineChart, MessageCircle, Target, Settings, BadgeCheck, AlertTriangle } from "lucide-react";
 
 export default function Home() {
-  const lineUrl = "https://line.me/R/ti/p/xccoa14";
+  const lineUrl = "https://lin.ee/ohGIVV0";
 
   const services = [
     ["Meta 廣告優化", "不是只幫你投廣告，而是檢查素材、文案、受眾、CTA 與導流路徑。", <Target className="w-6 h-6" />],
